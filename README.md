@@ -17,14 +17,14 @@ ong-da-paz/
 ├── cadastro.html
 
 ├── css/
-└── style.css
+    style.css
 
 ├── js/
-└── script.js
+    script.js
 
 └── img/
-├── banner.png
-├── principal.png
+    banner.png
+    principal.png
 
 ✅ Conteúdo:
 
