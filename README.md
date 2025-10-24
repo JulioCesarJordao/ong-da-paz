@@ -22,9 +22,9 @@ ong-da-paz/
 
 └── img/
 
-banner.png
+  banner.png
 
-principal.png
+  principal.png
 
 ✅ Conteúdo:
 
