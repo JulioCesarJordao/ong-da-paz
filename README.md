@@ -21,7 +21,9 @@ ong-da-paz/
 ├── js/script.js
 
 └── img/
+
 banner.png
+
 principal.png
 
 ✅ Conteúdo:
