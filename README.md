@@ -17,22 +17,21 @@ ong-da-paz/
 ├── cadastro.html
 
 ├── css/
-
-  └── style.css
+└── style.css
 
 ├── js/
-  
-   └── script.js
+└── script.js
 
 └── img/
-   
-    ├── banner.png
-    
-    ├── principal.png
+├── banner.png
+├── principal.png
 
 ✅ Conteúdo:
 
 • Três páginas HTML completas e semânticas.
+
 • CSS moderno.
+
 • Formulário com validação nativa e máscaras de CPF, telefone e CEP.
+
 • Estrutura organizada de pastas.
