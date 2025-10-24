@@ -9,13 +9,19 @@ Projeto voltado para atividade pratica I da disciplina Desenvolvimento Front End
 
 ESTRUTURA DO SITE
 ong-da-paz/
+
 ├── index.html
+
 ├── projetos.html
+
 ├── cadastro.html
+
 ├── css/
 │   └── style.css
+
 ├── js/
 │   └── script.js
+
 └── img/
     ├── banner.png
     ├── principal.png
